@@ -1,0 +1,1025 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e7cebfe3-bf43-4dc1-99be-f8984dcba626" name="Default" comment="YAY&#10;">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/about/ABOUT.swf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/branding/OLDadvertising_2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/interactive/OLDinteractive_5.flv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/production/OLDpackaging_6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/branding/OLDth_advertising_2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/production/OLDth_packaging_6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/sound/about.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/about/about_1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/branding/advertising_10.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/branding/advertising_11.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/branding/advertising_12.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/branding/advertising_13.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/branding/advertising_14.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/branding/advertising_15.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/branding/advertising_16.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/branding/advertising_17.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/branding/advertising_18.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/branding/advertising_19.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/branding/advertising_2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/branding/advertising_20.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/branding/advertising_3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/branding/advertising_4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/branding/advertising_5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/branding/advertising_6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/branding/advertising_7.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/branding/advertising_8.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/branding/advertising_9.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/images/bracket.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/sound/branding.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/branding/branding_1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/branding/video/branding_video_1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/branding/video/branding_video_1.m4v" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/branding/video/branding_video_1.mp4" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/branding/video/branding_video_1.ogv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/branding/video/branding_video_1.webm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/branding/video/branding_video_4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/branding/video/branding_video_4.m4v" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/branding/video/branding_video_4.mp4" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/branding/video/branding_video_4.ogv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/branding/video/branding_video_4.webm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/home/thumbs/char_th_01.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/sound/clients.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/clients/clients_1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/concept/concept_1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/sound/event.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/media/event_10.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/media/event_11.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/media/event_12.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/media/event_13.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/media/event_14.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/media/event_15.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/media/event_16.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/media/event_17.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/media/event_18.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/media/event_2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/media/event_3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/media/event_4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/media/event_5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/media/event_6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/media/event_7.swf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/media/event_8.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/media/event_9.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/favicon.ico" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/home/homeVideo.flv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/home/home_1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/home/thumbs/home_th_1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/home/thumbs/home_th_2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/home/thumbs/home_th_3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/home/thumbs/home_th_4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/home/thumbs/home_th_5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/home/thumbs/home_th_6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/home/thumbs/home_th_7.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/home/thumbs/home_th_8.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/home/thumbs/home_th_9.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/sound/illustration.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/concept/illustration_10.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/concept/illustration_11.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/concept/illustration_12.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/concept/illustration_13.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/concept/illustration_14.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/concept/illustration_15.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/concept/illustration_16.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/concept/illustration_17.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/concept/illustration_18.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/concept/illustration_19.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/concept/illustration_2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/concept/illustration_20.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/concept/illustration_21.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/concept/illustration_22.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/concept/illustration_23.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/concept/illustration_24.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/concept/illustration_25.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/concept/illustration_26.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/concept/illustration_27.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/concept/illustration_28.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/concept/illustration_29.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/concept/illustration_3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/concept/illustration_30.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/concept/illustration_31.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/concept/illustration_32.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/concept/illustration_33.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/concept/illustration_4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/concept/illustration_5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/concept/illustration_6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/concept/illustration_7.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/concept/illustration_8.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/concept/illustration_9.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/sound/interactive.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/interactive/interactive_1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/interactive/interactive_10.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/interactive/interactive_11.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/interactive/interactive_12.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/interactive/interactive_2.flv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/interactive/interactive_2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/interactive/interactive_3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/interactive/interactive_4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/interactive/interactive_5.flv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/interactive/interactive_5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/interactive/interactive_6.flv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/interactive/interactive_6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/interactive/interactive_7.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/interactive/interactive_8.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/interactive/interactive_9.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/sound/intro.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/images/leftFade.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/logo.fla" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/logo.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/images/logo.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/logo.swf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/logo2.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/sound/mail.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/media/media_1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/branding/oldadvertising_7.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/branding/oldadvertising_8.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/branding/oldadvertising_9.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/media/oldevent_7.swf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/interactive/oldinteractive_4.flv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/interactive/oldinteractive_4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/production/oldpackaging_13.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/branding/oldth_advertising_7.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/branding/oldth_advertising_8.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/branding/oldth_advertising_9.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/interactive/oldth_interactive_4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/interactive/oldth_interactive_5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/production/oldth_packaging_13.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/sound/packaging.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/production/packaging_10.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/production/packaging_11.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/production/packaging_12.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/production/packaging_13.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/production/packaging_14.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/production/packaging_15.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/production/packaging_16.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/production/packaging_17.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/production/packaging_18.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/production/packaging_19.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/production/packaging_2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/production/packaging_20.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/production/packaging_21.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/production/packaging_22.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/production/packaging_23.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/production/packaging_24.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/production/packaging_25.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/production/packaging_26.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/production/packaging_27.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/production/packaging_3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/production/packaging_4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/production/packaging_5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/production/packaging_6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/production/packaging_7.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/production/packaging_8.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/production/packaging_9.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/production/production_1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/sound/restm.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/images/rightFade.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/images/siteNavBG.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/interactive/snoglobe.swf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/about/th_about_1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/branding/th_advertising_10.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/branding/th_advertising_11.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/branding/th_advertising_12.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/branding/th_advertising_13.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/branding/th_advertising_14.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/branding/th_advertising_15.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/branding/th_advertising_16.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/branding/th_advertising_17.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/branding/th_advertising_18.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/branding/th_advertising_19.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/branding/th_advertising_2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/branding/th_advertising_20.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/branding/th_advertising_3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/branding/th_advertising_4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/branding/th_advertising_5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/branding/th_advertising_6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/branding/th_advertising_7.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/branding/th_advertising_8.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/branding/th_advertising_9.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/branding/th_branding_1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/clients/th_clients_1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/concept/th_concept_1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/media/th_event_10.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/media/th_event_11.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/media/th_event_12.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/media/th_event_13.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/media/th_event_14.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/media/th_event_15.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/media/th_event_16.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/media/th_event_17.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/media/th_event_18.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/media/th_event_2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/media/th_event_3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/media/th_event_4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/media/th_event_5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/media/th_event_6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/media/th_event_7.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/media/th_event_8.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/media/th_event_9.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/concept/th_illustration_10.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/concept/th_illustration_11.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/concept/th_illustration_12.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/concept/th_illustration_13.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/concept/th_illustration_14.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/concept/th_illustration_15.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/concept/th_illustration_16.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/concept/th_illustration_17.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/concept/th_illustration_18.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/concept/th_illustration_19.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/concept/th_illustration_2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/concept/th_illustration_20.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/concept/th_illustration_21.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/concept/th_illustration_22.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/concept/th_illustration_23.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/concept/th_illustration_24.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/concept/th_illustration_25.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/concept/th_illustration_26.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/concept/th_illustration_27.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/concept/th_illustration_28.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/concept/th_illustration_29.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/concept/th_illustration_3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/concept/th_illustration_30.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/concept/th_illustration_31.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/concept/th_illustration_32.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/concept/th_illustration_33.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/concept/th_illustration_4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/concept/th_illustration_5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/concept/th_illustration_6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/concept/th_illustration_7.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/concept/th_illustration_8.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/concept/th_illustration_9.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/interactive/th_interactive_1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/interactive/th_interactive_10.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/interactive/th_interactive_11.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/interactive/th_interactive_12.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/interactive/th_interactive_2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/interactive/th_interactive_3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/interactive/th_interactive_4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/interactive/th_interactive_5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/interactive/th_interactive_6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/interactive/th_interactive_7.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/interactive/th_interactive_8.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/interactive/th_interactive_9.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/media/th_media_1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/production/th_packaging_10.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/production/th_packaging_11.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/production/th_packaging_12.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/production/th_packaging_13.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/production/th_packaging_14.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/production/th_packaging_15.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/production/th_packaging_16.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/production/th_packaging_17.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/production/th_packaging_18.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/production/th_packaging_19.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/production/th_packaging_2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/production/th_packaging_20.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/production/th_packaging_21.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/production/th_packaging_22.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/production/th_packaging_23.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/production/th_packaging_24.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/production/th_packaging_25.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/production/th_packaging_26.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/production/th_packaging_27.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/production/th_packaging_3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/production/th_packaging_4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/production/th_packaging_5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/production/th_packaging_6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/production/th_packaging_7.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/production/th_packaging_8.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/production/th_packaging_9.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/production/th_production_1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.name" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/404.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/greensock/plugins/AttrPlugin.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/greensock/plugins/BezierPlugin.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/greensock/plugins/CSSPlugin.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/greensock/plugins/CSSRulePlugin.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/greensock/plugins/ColorPropsPlugin.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/greensock/plugins/DirectionalRotationPlugin.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/greensock/easing/EasePack.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/greensock/plugins/EaselPlugin.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/greensock/plugins/RaphaelPlugin.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/greensock/plugins/RoundPropsPlugin.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/greensock/plugins/ScrollToPlugin.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/SiteModel.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/SiteView.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/greensock/plugins/TEMPLATE_Plugin.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/TOC.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/greensock/plugins/TextPlugin.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/greensock/TimelineLite.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/greensock/TimelineMax.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/greensock/TweenLite.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/greensock/TweenMax.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/crossdomain.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/crossdomain.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/css.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/extend.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/faq.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/interactive/globe.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/htaccess.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/html.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/jquery-1.8.3.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/greensock/jquery.gsap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/js.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/logo.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/main.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/main.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/data/mainData.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/mdetect.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/misc.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/modernizr-2.6.2.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modul8tion.com_.webloc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myFirstHtml5.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/normalize.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/plugins.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/robots.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/swfobject.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/usage.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/utils.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
+    <ignored path="myFirstHtml5.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <file path="/index.html" changelist="e7cebfe3-bf43-4dc1-99be-f8984dcba626" time="1368834255239" ignored="false" />
+    <file path="/newJs.js" changelist="e7cebfe3-bf43-4dc1-99be-f8984dcba626" time="1358728114893" ignored="false" />
+    <file path="/loadxmldata.js" changelist="e7cebfe3-bf43-4dc1-99be-f8984dcba626" time="1359157048139" ignored="false" />
+    <file path="/main.js" changelist="e7cebfe3-bf43-4dc1-99be-f8984dcba626" time="1368832035009" ignored="false" />
+    <file path="/SiteModel.js" changelist="e7cebfe3-bf43-4dc1-99be-f8984dcba626" time="1368915675585" ignored="false" />
+    <file path="/SiteItem.js" changelist="e7cebfe3-bf43-4dc1-99be-f8984dcba626" time="1359164838765" ignored="false" />
+    <file path="/MainNav.js" changelist="e7cebfe3-bf43-4dc1-99be-f8984dcba626" time="1364860304757" ignored="false" />
+    <file path="/main.css" changelist="e7cebfe3-bf43-4dc1-99be-f8984dcba626" time="1366167769379" ignored="false" />
+    <file path="/mainData.xml" changelist="e7cebfe3-bf43-4dc1-99be-f8984dcba626" time="1368938905438" ignored="false" />
+    <file path="/SiteView.js" changelist="e7cebfe3-bf43-4dc1-99be-f8984dcba626" time="1368939837414" ignored="false" />
+    <file path="/fragment.js2" changelist="e7cebfe3-bf43-4dc1-99be-f8984dcba626" time="1367466508859" ignored="false" />
+    <file path="$PROJECT_DIR$/../test/src/Main.as" changelist="e7cebfe3-bf43-4dc1-99be-f8984dcba626" time="1367466227242" ignored="false" />
+    <file path="$PROJECT_DIR$/../test/src/folder/subFolder.as" changelist="e7cebfe3-bf43-4dc1-99be-f8984dcba626" time="1367465850257" ignored="false" />
+    <file path="$PROJECT_DIR$/../test/.idea/workspace.xml" changelist="e7cebfe3-bf43-4dc1-99be-f8984dcba626" time="1367547287277" ignored="false" />
+    <file path="$PROJECT_DIR$/../test/.idea/misc.xml" changelist="e7cebfe3-bf43-4dc1-99be-f8984dcba626" time="1367466056096" ignored="false" />
+    <file path="/Main.as" changelist="e7cebfe3-bf43-4dc1-99be-f8984dcba626" time="1367466220329" ignored="false" />
+    <file path="/fragment.java" changelist="e7cebfe3-bf43-4dc1-99be-f8984dcba626" time="1367466472189" ignored="false" />
+    <file path="$USER_HOME$/Desktop/KFP_STARING_CONTEST_MOBILE/src/com/cfp/view/mediators/FocusBarMediator.as" changelist="e7cebfe3-bf43-4dc1-99be-f8984dcba626" time="1369269227402" ignored="false" />
+    <file path="$USER_HOME$/Desktop/KFP_STARING_CONTEST_MOBILE/src/com/cfp/view/mediators/FocusMeterMediator.as" changelist="e7cebfe3-bf43-4dc1-99be-f8984dcba626" time="1369269257742" ignored="false" />
+    <file path="$USER_HOME$/Desktop/KFP_STARING_CONTEST_MOBILE/src/com/cfp/view/mediators/InstructionsMediator.as" changelist="e7cebfe3-bf43-4dc1-99be-f8984dcba626" time="1369269500967" ignored="false" />
+    <file path="$USER_HOME$/Desktop/KFP_STARING_CONTEST_MOBILE/src/com/cfp/view/mediators/HomepageMediator.as" changelist="e7cebfe3-bf43-4dc1-99be-f8984dcba626" time="1369269558775" ignored="false" />
+    <file path="$USER_HOME$/Desktop/KFP_STARING_CONTEST_MOBILE/src/com/cfp/view/components/VideoPlayer.as" changelist="e7cebfe3-bf43-4dc1-99be-f8984dcba626" time="1369269937731" ignored="false" />
+    <file path="$USER_HOME$/Desktop/KFP_STARING_CONTEST_MOBILE/src/com/cfp/view/components/SoundComponent.as" changelist="e7cebfe3-bf43-4dc1-99be-f8984dcba626" time="1369270112270" ignored="false" />
+    <file path="$USER_HOME$/Desktop/KFP_STARING_CONTEST_MOBILE/src/com/cfp/view/components/ShareComponent.as" changelist="e7cebfe3-bf43-4dc1-99be-f8984dcba626" time="1369270167426" ignored="false" />
+    <file path="$USER_HOME$/Desktop/KFP_STARING_CONTEST_MOBILE/src/com/cfp/view/components/SelectGameBtnComponent.as" changelist="e7cebfe3-bf43-4dc1-99be-f8984dcba626" time="1369270244076" ignored="false" />
+    <file path="$USER_HOME$/Desktop/KFP_STARING_CONTEST_MOBILE/src/com/cfp/view/components/PopUpComponent.as" changelist="e7cebfe3-bf43-4dc1-99be-f8984dcba626" time="1369270406319" ignored="false" />
+    <file path="$USER_HOME$/Desktop/KFP_STARING_CONTEST_MOBILE/src/com/cfp/view/components/PageEvent.as" changelist="e7cebfe3-bf43-4dc1-99be-f8984dcba626" time="1369270429532" ignored="false" />
+    <file path="$USER_HOME$/Desktop/KFP_STARING_CONTEST_MOBILE/src/com/cfp/view/components/HeaderFooterComponent.as" changelist="e7cebfe3-bf43-4dc1-99be-f8984dcba626" time="1369271618576" ignored="false" />
+    <file path="$USER_HOME$/Desktop/KFP_STARING_CONTEST_MOBILE/src/com/cfp/view/components/BasicBtnComponent.as" changelist="e7cebfe3-bf43-4dc1-99be-f8984dcba626" time="1369270788448" ignored="false" />
+    <file path="$USER_HOME$/Desktop/KFP_STARING_CONTEST_MOBILE/src/com/cfp/view/components/CharactersComponent.as" changelist="e7cebfe3-bf43-4dc1-99be-f8984dcba626" time="1369274220726" ignored="false" />
+    <file path="$USER_HOME$/Desktop/KFP_STARING_CONTEST_MOBILE/src/com/cfp/view/components/GameComponent.as" changelist="e7cebfe3-bf43-4dc1-99be-f8984dcba626" time="1369271296069" ignored="false" />
+    <file path="$USER_HOME$/Desktop/KFP_STARING_CONTEST_MOBILE/src/com/cfp/view/components/BackgroundComponent.as" changelist="e7cebfe3-bf43-4dc1-99be-f8984dcba626" time="1369271323495" ignored="false" />
+    <file path="$USER_HOME$/Desktop/KFP_STARING_CONTEST_MOBILE/src/com/cfp/view/mediators/GamePageMediator.as" changelist="e7cebfe3-bf43-4dc1-99be-f8984dcba626" time="1369271560799" ignored="false" />
+    <file path="$USER_HOME$/Desktop/KFP_STARING_CONTEST_MOBILE/src/com/cfp/view/components/FocusMeterComponent.as" changelist="e7cebfe3-bf43-4dc1-99be-f8984dcba626" time="1369274199026" ignored="false" />
+    <file path="$USER_HOME$/Desktop/KFP_STARING_CONTEST_MOBILE/src/com/cfp/view/components/HomepageComponent.as" changelist="e7cebfe3-bf43-4dc1-99be-f8984dcba626" time="1369272473703" ignored="false" />
+    <file path="$USER_HOME$/Desktop/KFP_STARING_CONTEST_MOBILE/src/com/cfp/view/components/HintsComponent.as" changelist="e7cebfe3-bf43-4dc1-99be-f8984dcba626" time="1369272592992" ignored="false" />
+    <file path="$USER_HOME$/Desktop/KFP_STARING_CONTEST_MOBILE/src/com/cfp/view/components/GestureComponent.as" changelist="e7cebfe3-bf43-4dc1-99be-f8984dcba626" time="1369272849082" ignored="false" />
+    <file path="$USER_HOME$/Desktop/KFP_STARING_CONTEST_MOBILE/src/com/cfp/view/components/GameVideoComponent.as" changelist="e7cebfe3-bf43-4dc1-99be-f8984dcba626" time="1369272938046" ignored="false" />
+    <file path="$USER_HOME$/Desktop/KFP_STARING_CONTEST_MOBILE/src/com/cfp/view/components/GameStressEffectsComponent.as" changelist="e7cebfe3-bf43-4dc1-99be-f8984dcba626" time="1369273052778" ignored="false" />
+    <file path="$USER_HOME$/Desktop/KFP_STARING_CONTEST_MOBILE/src/com/cfp/view/components/GameStatusDisplayComponent.as" changelist="e7cebfe3-bf43-4dc1-99be-f8984dcba626" time="1369273245182" ignored="false" />
+    <file path="$USER_HOME$/Desktop/KFP_STARING_CONTEST_MOBILE/src/com/cfp/view/components/GameSelectionComponent.as" changelist="e7cebfe3-bf43-4dc1-99be-f8984dcba626" time="1369273360879" ignored="false" />
+    <file path="$USER_HOME$/Desktop/KFP_STARING_CONTEST_MOBILE/src/com/cfp/view/components/GameOverPageComponent.as" changelist="e7cebfe3-bf43-4dc1-99be-f8984dcba626" time="1369273503682" ignored="false" />
+    <file path="$USER_HOME$/Desktop/KFP_STARING_CONTEST_MOBILE/src/com/cfp/view/components/GameInstructionsComponent.as" changelist="e7cebfe3-bf43-4dc1-99be-f8984dcba626" time="1369273805967" ignored="false" />
+    <file path="/GameInstructionsComponent.as" changelist="e7cebfe3-bf43-4dc1-99be-f8984dcba626" time="1369273642615" ignored="false" />
+    <file path="$USER_HOME$/Desktop/KFP_STARING_CONTEST_MOBILE/src/com/cfp/view/components/GameDistractionsComponent.as" changelist="e7cebfe3-bf43-4dc1-99be-f8984dcba626" time="1369274140351" ignored="false" />
+    <file path="/GameDistractionsComponent.as" changelist="e7cebfe3-bf43-4dc1-99be-f8984dcba626" time="1369274131073" ignored="false" />
+    <file path="$USER_HOME$/Desktop/KFP_STARING_CONTEST_MOBILE/src/com/cfp/NotificationList.as" changelist="e7cebfe3-bf43-4dc1-99be-f8984dcba626" time="1369274296245" ignored="false" />
+    <file path="$USER_HOME$/Desktop/KFP_STARING_CONTEST_MOBILE/src/com/cfp/ApplicationFacade.as" changelist="e7cebfe3-bf43-4dc1-99be-f8984dcba626" time="1369275452318" ignored="false" />
+    <file path="/Dummy.txt" changelist="e7cebfe3-bf43-4dc1-99be-f8984dcba626" time="1370116296124" ignored="false" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="Commander">
+    <leftPanel />
+    <rightPanel />
+    <splitter proportion="0.5" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="DatabaseView">
+    <flatten value="false" />
+    <groupTables value="false" />
+    <sortChildren value="false" />
+  </component>
+  <component name="DebuggerManager">
+    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
+    <breakpoint_any default_suspend_policy="SuspendAll" default_condition_enabled="true">
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+    </breakpoint_any>
+    <breakpoint_rules />
+    <ui_properties />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="myFirstHtml5" />
+    <favorites_list name="modul8tionSite" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="SiteView.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/SiteView.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="39" column="52" selection-start="1148" selection-end="1148" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SiteModel.js" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/js/SiteModel.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="70" column="1" selection-start="1762" selection-end="1762" vertical-scroll-proportion="0.3992126">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/main.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="14" column="20" selection-start="413" selection-end="413" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="9" column="44" selection-start="464" selection-end="464" vertical-scroll-proportion="-5.625">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="mainData.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/content/data/mainData.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="14" column="138" selection-start="1446" selection-end="1446" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitLogSettings">
+    <option name="myDateState">
+      <MyDateState />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/js/newJs.js" />
+        <option value="$PROJECT_DIR$/.idea/workspace.xml" />
+        <option value="$PROJECT_DIR$/js/loadxmldata.js" />
+        <option value="$PROJECT_DIR$/js/SiteItem.js" />
+        <option value="$PROJECT_DIR$/data/mainData.xml" />
+        <option value="$PROJECT_DIR$/HTML/css/main.css" />
+        <option value="$PROJECT_DIR$/js/MainNav.js" />
+        <option value="$PROJECT_DIR$/js/utils.js" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/css/main.css" />
+        <option value="$PROJECT_DIR$/content/data/mainData.xml" />
+        <option value="$PROJECT_DIR$/js/main.js" />
+        <option value="$PROJECT_DIR$/js/SiteView.js" />
+        <option value="$PROJECT_DIR$/js/SiteModel.js" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="68" />
+    <option name="y" value="22" />
+    <option name="width" value="2501" />
+    <option name="height" value="1418" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane">
+        <subPane />
+      </pane>
+      <pane id="Scope">
+        <subPane subId="Project Files" />
+      </pane>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="modul8tionSite" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="modul8tionSite" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="modul8tionSite" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="modul8tionSite" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="modul8tionSite" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="MemberChooser.sorted" value="false" />
+    <property name="recentsLimit" value="5" />
+    <property name="options.lastSelected" value="vcs.Git" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="GoToClass.includeLibraries" value="false" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\NKatz\Desktop\NeilsStuff\modul8tionSite\js" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\NKatz\Desktop\NeilsStuff\modul8tionSite\js\vendor" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.index.html">
+    <configuration default="false" name="index.html" type="JavascriptDebugSession" factoryName="Local" singleton="true" temporary="true">
+      <JSDebuggerConfigurationSettings>
+        <option name="engineId" value="embedded" />
+        <option name="fileUrl" value="file://$PROJECT_DIR$/index.html" />
+      </JSDebuggerConfigurationSettings>
+      <RunnerSettings RunnerId="JavascriptDebugRunner" />
+      <ConfigurationWrapper RunnerId="JavascriptDebugRunner" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugSession" factoryName="Local" singleton="true">
+      <JSDebuggerConfigurationSettings>
+        <option name="engineId" value="embedded" />
+        <option name="fileUrl" />
+      </JSDebuggerConfigurationSettings>
+      <method />
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.index.html" />
+    </list>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.index.html" />
+      </list>
+    </recent_temporary>
+    <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
+      <Host>localhost</Host>
+      <Port>5050</Port>
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false">
+    <option name="USER" value="" />
+    <option name="PASSWORD" value="" />
+    <option name="mySSHConnectionTimeout" value="30000" />
+    <option name="mySSHReadTimeout" value="30000" />
+    <option name="LAST_MERGED_REVISION" />
+    <option name="MERGE_DRY_RUN" value="false" />
+    <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
+    <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
+    <option name="IGNORE_SPACES_IN_MERGE" value="false" />
+    <option name="DETECT_NESTED_COPIES" value="true" />
+    <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="false" />
+    <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
+    <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
+    <option name="FORCE_UPDATE" value="false" />
+    <option name="IGNORE_EXTERNALS" value="false" />
+    <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e7cebfe3-bf43-4dc1-99be-f8984dcba626" name="Default" comment="" />
+      <created>1359054865602</created>
+      <updated>1359054865602</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="68" y="22" width="2501" height="1418" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.11405295" sideWeight="0.6001541" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39940828" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.21024546" sideWeight="0.6005917" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.18089648" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39984593" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="true" />
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="CHECK_NEW_TODO" value="true" />
+    <option name="myTodoPanelSettings">
+      <value>
+        <are-packages-shown value="false" />
+        <are-modules-shown value="false" />
+        <flatten-packages value="false" />
+        <is-autoscroll-to-source value="false" />
+      </value>
+    </option>
+    <option name="PERFORM_UPDATE_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_COMMIT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_EDIT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_CHECKOUT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_ADD_REMOVE_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_ROLLBACK_IN_BACKGROUND" value="false" />
+    <option name="CHECK_LOCALLY_CHANGED_CONFLICTS_IN_BACKGROUND" value="false" />
+    <option name="CHANGED_ON_SERVER_INTERVAL" value="60" />
+    <option name="SHOW_ONLY_CHANGED_IN_SELECTION_DIFF" value="true" />
+    <option name="CHECK_COMMIT_MESSAGE_SPELLING" value="true" />
+    <option name="DEFAULT_PATCH_EXTENSION" value="patch" />
+    <option name="SHORT_DIFF_HORISONTALLY" value="true" />
+    <option name="SHORT_DIFF_EXTRA_LINES" value="2" />
+    <option name="SOFT_WRAPS_IN_SHORT_DIFF" value="true" />
+    <option name="INCLUDE_TEXT_INTO_PATCH" value="false" />
+    <option name="INCLUDE_TEXT_INTO_SHELF" value="false" />
+    <option name="SHOW_FILE_HISTORY_DETAILS" value="true" />
+    <option name="SHOW_VCS_ERROR_NOTIFICATIONS" value="true" />
+    <option name="SHOW_DIRTY_RECURSIVELY" value="false" />
+    <option name="LIMIT_HISTORY" value="true" />
+    <option name="MAXIMUM_HISTORY_ROWS" value="1000" />
+    <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
+    <option name="LAST_COMMIT_MESSAGE" value="YAY&#10;" />
+    <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="REFORMAT_BEFORE_FILE_COMMIT" value="false" />
+    <option name="FILE_HISTORY_DIALOG_COMMENTS_SPLITTER_PROPORTION" value="0.8" />
+    <option name="FILE_HISTORY_DIALOG_SPLITTER_PROPORTION" value="0.5" />
+    <option name="ACTIVE_VCS_NAME" />
+    <option name="UPDATE_GROUP_BY_PACKAGES" value="false" />
+    <option name="UPDATE_GROUP_BY_CHANGELIST" value="false" />
+    <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
+    <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
+    <MESSAGE value="new comment" />
+    <MESSAGE value="YAY&#10;" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/js/SiteView.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="44" column="60" selection-start="1057" selection-end="1057" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/data/mainData.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="59" column="128" selection-start="53" selection-end="61" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="21" column="51" selection-start="827" selection-end="827" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/SiteView.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="44" column="38" selection-start="1035" selection-end="1050" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/data/mainData.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="59" column="128" selection-start="53" selection-end="61" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="21" column="51" selection-start="827" selection-end="827" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myFirstHtml5.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modul8tion.com_.webloc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/vendor/mdetect.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-1.6666666" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/normalize.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-3.8540146" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="246" column="35" selection-start="5609" selection-end="5609" vertical-scroll-proportion="0.51968503" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="44" selection-start="464" selection-end="464" vertical-scroll-proportion="-5.625">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/data/mainData.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="138" selection-start="1446" selection-end="1446" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/SiteView.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="39" column="52" selection-start="1148" selection-end="1148" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="20" selection-start="413" selection-end="413" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/SiteModel.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="70" column="1" selection-start="1762" selection-end="1762" vertical-scroll-proportion="0.3992126">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>4.5.0</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Modul8tionSite</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>4.5.0</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
+

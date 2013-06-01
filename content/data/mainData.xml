@@ -1,0 +1,93 @@
+<menu name="mainNav">
+
+    <menu name="home" menuId="home" action="homeMenu" show="false">
+        <!--<item name="home_1.jpg" video="home.flv" action="static" value="null"/>-->
+        <item type="image" src="branding/branding_1.jpg"        thumb="branding/th_branding_1.jpg"          action="static" value="branding"/>
+        <item type="image" src="media/event_2.jpg"              thumb="media/th_event_2.jpg"                action="static" value="media"/>
+        <item type="image" src="concept/concept_1.jpg"          thumb="concept/th_concept_1.jpg"            action="static" value="concept"/>
+        <item type="image" src="production/production_1.jpg"    thumb="production/th_production_1.jpg"      action="static" value="production"/>
+        <item type="image" src="interactive/interactive_1.jpg"  thumb="interactive/th_interactive_1.jpg"    action="link"   value="interactive"/>
+    </menu>
+
+    <menu name="branding" menuId="branding" action="menu" show="true" audio="sound/branding.mp3">
+        <item type="video" src="branding/video/branding_video_1"    thumb="branding/th_branding_1.jpg"      action="static" value="null" width="640" height="480"/>
+        <item type="image" src="branding/advertising_2.jpg"         thumb="branding/th_advertising_2.jpg"   action="static" value="null"/>
+        <item type="image" src="branding/advertising_3.jpg"         thumb="branding/th_advertising_3.jpg"   action="static" value="null"/>
+        <item type="video" src="branding/video/branding_video_4"    thumb="branding/th_advertising_4.jpg"   action="static" value="null" width="640" height="480"/>
+        <item type="image" src="branding/advertising_5.jpg"         thumb="branding/th_advertising_5.jpg"   action="static" value="null"/>
+        <item type="image" src="branding/advertising_6.jpg"         thumb="branding/th_advertising_6.jpg"   action="static" value="null"/>
+        <item type="image" src="branding/advertising_7.jpg"         thumb="branding/th_advertising_7.jpg"   action="static" value="null"/>
+        <item type="image" src="branding/advertising_8.jpg"         thumb="branding/th_advertising_8.jpg"   action="static" value="null"/>
+        <item type="image" src="branding/advertising_9.jpg"         thumb="branding/th_advertising_9.jpg"   action="static" value="null"/>
+        <item type="image" src="branding/advertising_10.jpg"        thumb="branding/th_advertising_10.jpg"  action="static" value="null"/>
+        <item type="image" src="branding/advertising_11.jpg"        thumb="branding/th_advertising_11.jpg"  action="static" value="null"/>
+        <item type="image" src="branding/advertising_12.jpg"        thumb="branding/th_advertising_12.jpg"  action="static" value="null"/>
+        <item type="image" src="branding/advertising_13.jpg"        thumb="branding/th_advertising_13.jpg"  action="static" value="null"/>
+        <item type="image" src="branding/advertising_14.jpg"        thumb="branding/th_advertising_14.jpg"  action="static" value="null"/>
+        <item type="image" src="branding/advertising_15.jpg"        thumb="branding/th_advertising_15.jpg"  action="static" value="null"/>
+        <item type="image" src="branding/advertising_16.jpg"        thumb="branding/th_advertising_16.jpg"  action="static" value="null"/>
+        <item type="image" src="branding/advertising_17.jpg"        thumb="branding/th_advertising_17.jpg"  action="static" value="null"/>
+        <item type="image" src="branding/advertising_18.jpg"        thumb="branding/th_advertising_18.jpg"  action="static" value="null"/>
+        <item type="image" src="branding/advertising_19.jpg"        thumb="branding/th_advertising_19.jpg"  action="static" value="null"/>
+        <item type="image" src="branding/advertising_20.jpg"        thumb="branding/th_advertising_20.jpg"  action="static" value="null"/>
+    </menu>
+
+    <menu name="media" menuId="media" action="menu" show="true" audio="sound/branding.mp3">
+        <item type="image" src="media/event_2.jpg" thumb="media/th_event_2.jpg" action="static" value="null"/>
+        <item type="image" src="media/event_3.jpg" thumb="media/th_event_3.jpg" action="static" value="null"/>
+        <item type="image" src="media/event_4.jpg" thumb="media/th_event_4.jpg" action="static" value="null"/>
+        <item type="image" src="media/event_5.jpg" thumb="media/th_event_5.jpg" action="static" value="null"/>
+        <item type="image" src="media/event_6.jpg" thumb="media/th_event_6.jpg" action="static" value="null"/>
+        <item type="image" src="media/event_7.jpg" thumb="media/th_event_7.jpg" action="static" value="null"/>
+        <item type="image" src="media/event_8.jpg" thumb="media/th_event_8.jpg" action="static" value="null"/>
+    </menu>
+
+    <menu name="concept" menuId="concept" action="menu" show="true" audio="sound/illustration.mp3">
+        <item type="image" src="concept/concept_1.jpg" thumb="concept/th_concept_1.jpg" action="static" value="null"/>
+        <item type="image" src="concept/illustration_2.jpg" thumb="concept/th_illustration_2.jpg" action="static" value="null"/>
+        <item type="image" src="concept/illustration_3.jpg" thumb="concept/th_illustration_3.jpg" action="static" value="null"/>
+        <item type="image" src="concept/illustration_4.jpg" thumb="concept/th_illustration_4.jpg" action="static" value="null"/>
+        <item type="image" src="concept/illustration_5.jpg" thumb="concept/th_illustration_5.jpg" action="static" value="null"/>
+        <item type="image" src="concept/illustration_6.jpg" thumb="concept/th_illustration_6.jpg" action="static" value="null"/>
+        <item type="image" src="concept/illustration_7.jpg" thumb="concept/th_illustration_7.jpg" action="static" value="null"/>
+    </menu>
+
+    <menu name="production" menuId="production" action="menu" show="true" audio="sound/packaging.mp3">
+        <item type="image" src="production/production_1.jpg"    thumb="production/th_production_1.jpg"  action="static" value="null"/>
+        <item type="image" src="production/packaging_2.jpg"     thumb="production/th_packaging_2.jpg"   action="static" value="null"/>
+        <item type="image" src="production/packaging_3.jpg"     thumb="production/th_packaging_3.jpg"   action="static" value="null"/>
+        <item type="image" src="production/packaging_4.jpg"     thumb="production/th_packaging_4.jpg"   action="static" value="null"/>
+        <item type="image" src="production/packaging_5.jpg"     thumb="production/th_packaging_5.jpg"   action="static" value="null"/>
+        <item type="image" src="production/packaging_6.jpg"     thumb="production/th_packaging_6.jpg"   action="static" value="null"/>
+        <item type="image" src="production/packaging_7.jpg"     thumb="production/th_packaging_7.jpg"   action="static" value="null"/>
+    </menu>
+
+    <menu name="interactive" menuId="interactive" action="menu" show="true" audio="sound/interactive.mp3">
+        <item type="image" src="interactive/interactive_1.jpg"  thumb="interactive/th_interactive_1.jpg"    action="static" value="null"/>
+        <item type="image" src="interactive/interactive_2.jpg"  thumb="interactive/th_interactive_2.jpg"    action="link"   value="http://na.square-enix.com/games/kingdomhearts/khcom"/>
+        <item type="image" src="interactive/interactive_3.jpg"  thumb="interactive/th_interactive_3.jpg"    action="link"   value="http://www.mcre8ive.com/content/interactive/globe.html"/>
+        <item type="image" src="interactive/interactive_4.jpg"  thumb="interactive/th_interactive_4.jpg"    action="link"   value="http://na.square-enix.com/starocean/"/>
+        <item type="image" src="interactive/interactive_5.jpg"  thumb="interactive/th_interactive_5.jpg"    action="static" value="null"/>
+        <item type="image" src="interactive/interactive_6.jpg"  thumb="interactive/th_interactive_6.jpg"    action="static" value="null"/>
+        <item type="image" src="interactive/interactive_7.jpg"  thumb="interactive/th_interactive_7.jpg"    action="link"   value="http://www.aspectgroupla.com"/>
+        <item type="image" src="interactive/interactive_8.jpg"  thumb="interactive/th_interactive_8.jpg"    action="link"   value="http://www.aspectgroupla.com"/>
+        <item type="image" src="interactive/interactive_9.jpg"  thumb="interactive/th_interactive_9.jpg"    action="link"   value="http://www.aspectgroupla.com"/>
+        <item type="image" src="interactive/interactive_10.jpg" thumb="interactive/th_interactive_10.jpg"   action="link"   value="http://www.aspectgroupla.com"/>
+        <item type="image" src="interactive/interactive_11.jpg" thumb="interactive/th_interactive_11.jpg"   action="link"   value="http://www.aspectgroupla.com"/>
+        <item type="image" src="interactive/interactive_12.jpg" thumb="interactive/th_interactive_12.jpg"   action="link"   value="http://www.aspectgroupla.com"/>
+    </menu>
+
+    <menu name="clients" menuId="clients" action="menu" show="true" audio="sound/clients.mp3">
+        <item type="image" src="clients/clients_1.jpg" thumb="clients/th_clients_1.jpg" action="static" value="null"/>
+    </menu>
+
+    <menu name="about" menuId="about" action="menu" show="true" audio="sound/about.mp3">
+        <item type="image" src="about/about_1.jpg" thumb="about/th_about_1.jpg" action="static" value="null"/>
+        <item type="image" src="about/about_2.jpg" thumb="about/th_about_2.jpg" action="static" value="null"/>
+        <item type="image" src="about/about_3.jpg" thumb="about/th_about_3.jpg" action="static" value="null"/>
+        <item type="image" src="about/about_4.jpg" thumb="about/th_about_4.jpg" action="static" value="null"/>
+    </menu>
+
+    <menu name="contact" menuId="contact" action="link"  audio="sound/mail.mp3" value="mailto:info@modul8tion.com"/>
+
+</menu>
